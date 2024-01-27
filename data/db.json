@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Robert",
+      "lastName": "Johnson",
+      "age": 23,
+      "address": "California"
+    },
+    {
+      "id": "a4z8_Kmd0Lt4ee5NKDs-a",
+      "firstName": "Sadriddin",
+      "lastName": "Ravshanov",
+      "age": "18",
+      "address": "Kashkadarya"
+    }
+  ]
+}
